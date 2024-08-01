@@ -1,5 +1,6 @@
 ## Hi there 👋
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
 <style>
   .keyColor {fill: #ffa657;}
   .valueColor {fill: #a5d6ff;}
@@ -15,7 +16,7 @@
   <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
   
   <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Cambrin College Sudbury</tspan><tspan class="commentColor"></tspan>
-  <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Mobile Application and Web Dev.</tspan><tspan class="commentColor"> #CPET</tspan>
+  <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Mobile Application and Web</tspan><tspan class="commentColor"> #CPET</tspan>
   <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Android Studio, Visual Studio</tspan>
   <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, C++, JavaScript</tspan>
   <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, Markdown</tspan>
@@ -30,3 +31,4 @@
   <tspan x="370" y="470">——————</tspan>
 
 </text>
+</svg>
