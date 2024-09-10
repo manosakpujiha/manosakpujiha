@@ -15,7 +15,7 @@ ___bold and italic___
 ##### Heading 5 (H5)
 ###### Heading 6 (H6)
 
-*[manos]
+*manos
 *[Akpujiha]
 
 
