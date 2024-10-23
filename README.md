@@ -13,16 +13,17 @@
 ### 🛠️ **About Me**
 I'm a highly skilled Software Engineer with extensive experience in **developing and deploying scalable software solutions**. With a strong background in **AI data training** and a passion for leveraging **machine learning technologies**, I specialize in creating high-quality, data-driven solutions.
 
-My technical skills span across **cross-platform mobile application development** (iOS, Android, Windows, Mac) using **Kotlin Multiplatform** and **.NET MAUI**, as well as expertise in web technologies like **Vue.js**, **React**, and **Angular**. I enjoy collaborating with cross-functional teams to bring complex project ideas to life.
+My technical skills span across **cross-platform mobile application development** (iOS, Android, Windows, Mac) using **Kotlin Multiplatform** and **.NET MAUI**, as well as expertise in web technologies like **Vue.js**, **React**, **Angular**, **Express**, **.Net Core**. I enjoy collaborating with cross-functional teams to bring complex project ideas to life.
 
 ---
 
-### 🔧 **Skills**
-- **Mobile App Development**: Kotlin Multiplatform, C# & .NET MAUI  
-- **Web Development**: HTML5, CSS3, JavaScript (Vue, React, Angular), Bootstrap, Tailwind  
-- **Backend**: Firebase, Node.js, Express  
+### 🔧 **Skills/Technologies**
+- **Mobile App Development**: Kotlin Multiplatform, .NET MAUI (Multi-platform App UI)  
+- **Web Development Front-End**: HTML5, CSS3, JavaScript (Vue, React, Angular), Bootstrap, Tailwind, Typescript , Nuxt, Next
+- **Backend**: Express, ASP.NET Core
 - **Version Control**: Git, GitHub, Azure DevOps  
-- **Other Tools**: Figma, Jira, Docker, Firebase, Netlify, MongoDB, Python  
+- **Other Tools**: Figma, Jira, Docker, Firebase, Netlify, MongoDB, Python, SQL
+- **Cloud Technologies**: Google Cloud Platform (GCP), Microsoft Azure
 - **AI/ML**: Data annotation, model training, quality assurance  
 
 ---
@@ -52,25 +53,18 @@ Here are some of the projects I’ve worked on:
 
 - **[Portfolio Page](https://manosakpujiha.netlify.app/)**  
   *Technologies: HTML, CSS, JavaScript*  
-  My personal portfolio showcasing my skills and projects.
+  My first personal web portfolio showcasing my skills and projects.
 
 ---
 
 ### 🎓 **Education**
-- **Graduate Certificate** in Mobile Application & Web Development, Cambrian College, Sudbury, Ontario (In Progress)  
-- **ALX Software Engineering Program**, Holberton School (Sep 2022 – Oct 2023)  
-- **B.Eng. in Civil Engineering**, Chukwuemeka Odimegwu Ojukwu University, Uli, Nigeria (2003 – 2008)  
+- **Mobile Application & Web Development**, Cambrian College, Sudbury, Ontario (April 2025)
+- **ALX Software Engineering Program**, affiliated to Holberton College USA (Oct 2023)  
 
 ---
 
 ### 📜 **Certifications**
 - **ALX Software Engineering Certification** (2023)  
-- **FreeCodeCamp** - JavaScript Algorithms and Data Structures Certification (2023)  
-- **FreeCodeCamp** - Responsive Web Design Certification (2023)  
-- **Cambridge Certification Authority** - JavaScript Level 1 (2021)  
-- **Cambridge Certification Authority** - HTML Level 1 (2021)  
-- **Cambridge Certification Authority** - CSS Level 1 (2021)
-
 ---
 
 ### 📈 **GitHub Stats**
