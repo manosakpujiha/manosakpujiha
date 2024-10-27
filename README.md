@@ -19,7 +19,7 @@ My technical skills span across **cross-platform mobile application development*
 
 ### 🔧 **Skills/Technologies**
 - **Mobile App Development**: Kotlin Multiplatform, .NET MAUI (Multi-platform App UI)  
-- **Web Development Front-End**: HTML5, CSS3, JavaScript (Vue, React, Angular), Bootstrap, Tailwind, Typescript , Nuxt, Next
+- **Web Development Front-End**: HTML5, CSS3, JavaScript (Vue, React, Angular), Bootstrap, Tailwind, Typescript, Nuxt, Next
 - **Backend**: Express, ASP.NET Core
 - **Version Control**: Git, GitHub, Azure DevOps  
 - **Other Tools**: Figma, Jira, Docker, Firebase, Netlify, MongoDB, Python, SQL
@@ -28,8 +28,13 @@ My technical skills span across **cross-platform mobile application development*
 
 ---
 
-### 💻 **Projects**
+
 Here are some of the projects I’ve worked on:
+ •	Student Management API: https://studentmanagmentapi.azurewebsites.net/
+ GitHub Repo.: https://github.com/manosakpujiha/StudentManagementAPI
+ Technologies used: C#, ASP.NET Core 8.0, SQLite, JWT-Authentication, JavaScript, etc..
+ The Student Management API (StudentHub) is a RESTful API that manages student records and their academic performance. It allows the creation, retrieval, updating, and deletion of students, along with their course enrollments and grades. The API was built using ASP.NET   Core, employing Entity Framework Core for database management and CRUD operations.
+
 
 - **[MoviesZone](https://manos-movieszone.netlify.app/)** ([GitHub Repo](https://github.com/manosakpujiha/movies-zone))  
   *Technologies: React, Firebase, Firestore, Stripe, TMDB API, YouTube API*  
