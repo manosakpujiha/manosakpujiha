@@ -39,7 +39,7 @@ Here are some of the projects I’ve worked on:
   *Technologies: Vue.js (Nuxt), Tailwind, Figma, Jira*  
   A collaborative e-commerce app built with the MEVN stack. It includes admin, merchant, and customer sections for product management and purchases.
 
-- **[ShoppingListMobile](https://manos-list.netlify.app/)** ([GitHub Repo](https://github.com/manosakpujiha/shoppingListMobileApp))  
+- **[ShoppingListMobile](https://shoppersmobiletwo.netlify.app/)** ([GitHub Repo](https://github.com/manosakpujiha/shoppingListMobileApp))  
   *Technologies: HTML, CSS, JavaScript, Firebase*  
   A Progressive Web App for managing shared shopping lists with real-time updates using Firebase.
 
