@@ -30,9 +30,10 @@ My technical skills span across **cross-platform mobile application development*
 
 
 Here are some of the projects I’ve worked on:
- •	Student Management API: https://studentmanagmentapi.azurewebsites.net/
- GitHub Repo.: https://github.com/manosakpujiha/StudentManagementAPI
- Technologies used: C#, ASP.NET Core 8.0, SQLite, JWT-Authentication, JavaScript, etc..
+
+
+ •	 **[StudentHub](https://studentmanagmentapi.azurewebsites.net/)** ([GitHub Repo] (https://github.com/manosakpujiha/StudentManagementAPI))
+ *Technologies used: C#, ASP.NET Core 8.0, SQLite, JWT-Authentication, JavaScript, etc..*
  The Student Management API (StudentHub) is a RESTful API that manages student records and their academic performance. It allows the creation, retrieval, updating, and deletion of students, along with their course enrollments and grades. The API was built using ASP.NET   Core, employing Entity Framework Core for database management and CRUD operations.
 
 
