@@ -34,7 +34,7 @@ Here are some of the projects I’ve worked on:
 - **[ClubRecipee](https://club-recipee.vercel.app)** ([GitHub Repo](https://github.com/manosakpujiha/ClubRecipee))<br>
  *Technologies:* Node.js, Express.js, MongoDB, EJS, Cloudinary, Passport.js, etc..*
   ClubRecipee is a **full-stack web application** that allows users to **create, share, and explore recipes** within a **community-driven platform**. It features **user authentication (Passport.js)**, **secure image 
-  uploads (Cloudinary)**, and a **responsive UI with EJS   templates**. Built using the **MEEN stack (MongoDB, Express.js, EJS, Node.js)**, it ensures seamless interactions while maintaining security through proper 
+  uploads (Cloudinary)**, and a **responsive UI with EJS templates**. Built using the **MEEN stack (MongoDB, Express.js, EJS, Node.js)**, it ensures seamless interactions while maintaining security through proper 
   session handling and middleware integration.
   
 - **[MoviesZone](https://manos-movieszone.netlify.app/)** ([GitHub Repo](https://github.com/manosakpujiha/movies-zone))  
