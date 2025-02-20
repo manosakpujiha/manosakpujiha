@@ -31,14 +31,12 @@ My technical skills span across **cross-platform mobile application development*
 
 Here are some of the projects I’ve worked on:
 
-- **[ClubRecipee](https://github.com/manosakpujiha/ClubRecipee)** ([GitHub Repo](https://github.com/manosakpujiha/ClubRecipee)) 
+- **[ClubRecipee](https://club-recipee.vercel.app)** ([GitHub Repo](https://github.com/manosakpujiha/ClubRecipee)) 
   *Technologies:** Node.js, Express.js, MongoDB, EJS, Cloudinary, Passport.js, etc..*
-  ClubRecipee is a **full-stack web application** that allows users to **create, share, and explore recipes** within a **community-driven platform**. It features **user authentication (Passport.js)**, **secure image uploads (Cloudinary)**, and a **responsive UI with EJS   templates**. Built using the **MEEN stack (MongoDB, Express.js, EJS, Node.js)**, it ensures seamless interactions while maintaining security through proper session handling and middleware integration.
-
-- **[StudentHub](https://studentmanagmentapi.azurewebsites.net/)** ([GitHub Repo](https://github.com/manosakpujiha/StudentManagementAPI))  
-  *Technologies used: C#, ASP.NET Core 8.0, SQLite, JWT-Authentication, JavaScript, etc..*  
-  The Student Management API (StudentHub) is a RESTful API that manages student records and their academic performance. It allows the creation, retrieval, updating, and deletion of students, along with their course enrollments and grades. The API is built using ASP.NET    Core, employing Entity Framework Core for database management and CRUD operations.
-
+  ClubRecipee is a **full-stack web application** that allows users to **create, share, and explore recipes** within a **community-driven platform**. It features **user authentication (Passport.js)**, **secure image 
+  uploads (Cloudinary)**, and a **responsive UI with EJS   templates**. Built using the **MEEN stack (MongoDB, Express.js, EJS, Node.js)**, it ensures seamless interactions while maintaining security through proper 
+  session handling and middleware integration.
+  
 - **[MoviesZone](https://manos-movieszone.netlify.app/)** ([GitHub Repo](https://github.com/manosakpujiha/movies-zone))  
   *Technologies: React, Firebase, Firestore, Stripe, TMDB API, YouTube API*  
   A web app for watching movie trailers and teasers. Users can sign in, create watchlists, and leave reviews.
@@ -46,6 +44,10 @@ Here are some of the projects I’ve worked on:
 - **[YouStore](https://youstore-staging.netlify.app/)**  
   *Technologies: Vue.js (Nuxt), Tailwind, Figma, Jira*  
   A collaborative e-commerce app built with the MEVN stack. It includes admin, merchant, and customer sections for product management and purchases.
+
+- **[StudentHub](https://studentmanagmentapi.azurewebsites.net/)** ([GitHub Repo](https://github.com/manosakpujiha/StudentManagementAPI))  
+  *Technologies used: C#, ASP.NET Core 8.0, SQLite, JWT-Authentication, JavaScript, etc..*  
+  The Student Management API (StudentHub) is a RESTful API that manages student records and their academic performance. It allows the creation, retrieval, updating, and deletion of students, along with their course enrollments and grades. The API is built using ASP.NET    Core, employing Entity Framework Core for database management and CRUD operations.
 
 - **[ShoppingListMobile](https://shoppersmobiletwo.netlify.app/)** ([GitHub Repo](https://github.com/manosakpujiha/shoppingListMobileApp))  
   *Technologies: HTML, CSS, JavaScript, Firebase*  
