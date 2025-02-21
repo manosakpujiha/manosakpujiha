@@ -4,7 +4,7 @@
 
 📍 **Sudbury, Ontario, Canada**  
 📧 **manos.akpujiha@gmail.com**  
-🌐 **[manosakpujiha.netlify.app](https://manosakpujiha.netlify.app/)**  
+🌐 **[manos-akpujiha.netlify.app](https://manos-akpujiha.netlify.app/)**  
 💻 **[GitHub](https://github.com/manosakpujiha)**  
 🔗 **[LinkedIn](https://linkedin.com/in/manosakpujiha)**
 
@@ -61,9 +61,9 @@ Here are some of the projects I’ve worked on:
   *Technologies: HTML, CSS, JavaScript*  
   Interactive quiz apps featuring trivia questions and a high-score system.
 
-- **[Portfolio Page](https://manosakpujiha.netlify.app/)**  
+- **[Portfolio Page](https://manos-akpujiha.netlify.app/)**  
   *Technologies: HTML, CSS, JavaScript*  
-  My first personal web portfolio showcasing my skills and projects.
+  My personal web portfolio showcasing my skills and projects.
 
 ---
 
